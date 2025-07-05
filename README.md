@@ -63,11 +63,7 @@ To analyze sales, customers, product categories, and regional performance using 
 
 ---
 
-## 📁 Project Structure
-
-├── Superstore_SQL_Analysis.ipynb ← Jupyter Notebook (SQL + Analysis)
-├── Superstore Sales Data.csv ← Cleaned dataset
-├── README.md ← Project Documentation
+<pre><code> ## 📁 Project Structure ``` 📁 superstore-sql-analysis/ ├── Superstore_SQL_Analysis.ipynb ← Jupyter Notebook (SQL + Analysis) ├── Superstore Sales Data.csv ← Cleaned dataset ├── README.md ← Project Documentation ``` </code></pre>
 ---
 
 ## 🚀 How to Run
